@@ -22,5 +22,11 @@
         "key": "ed336ccb315a2994",
         "expirydate": "2027-05-04",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ed336ccb315a2994",
+        "key": "ed336ccb315a2994",
+        "expirydate": "2027-05-04",
+        "Allowoffline": false
     }
 ]
