@@ -22,5 +22,11 @@
         "key": "AMIR",
         "expirydate": "30-12-2028",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ed336ccb315a2994",
+        "key": "AMIR",
+        "expirydate": "30-12-2028",
+        "Allowoffline": false
     }
 ]
