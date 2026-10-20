@@ -1,7 +1,14 @@
 [
-  {
-    "key": "ed336ccb315a2994",
-    "device_id": "ed336ccb315a2994",
-    "expirydate": "2027-12-31"
-  }
+    {
+        "device_id": "device123",
+        "key": "key12345",
+        "expirydate": "2027-12-31",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "ed336ccb315a2994",
+        "key": "A",
+        "expirydate": "2027-12-31",
+        "Allowoffline": false
+    }
 ]
