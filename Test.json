@@ -58,5 +58,11 @@
         "key": "MARIO",
         "expirydate": "2027-05-04",
         "Allowoffline": false
+    },
+    {
+        "device_id": "dbee8a1d70f45186",
+        "key": "MARIO",
+        "expirydate": "2027-05-04",
+        "Allowoffline": false
     }
 ]
