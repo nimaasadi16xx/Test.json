@@ -40,5 +40,11 @@
         "key": "dbee8a1d70f45186",
         "expirydate": "2027-01-01",
         "Allowoffline": false
+    },
+    {
+        "device_id": "dbee8a1d70f45186",
+        "key": "dbee8a1d70f45186",
+        "expirydate": "2027-01-01",
+        "Allowoffline": false
     }
 ]
