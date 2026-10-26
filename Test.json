@@ -1,13 +1,18 @@
 [
-  {
-    "key": "VIP2027",
-    "expirydate": "2027-12-31",
-    "type": "public"
-  },
-  {
-    "key": "USER123",
-    "device_id": "ed336ccb315a2994",
-    "expirydate": "2027-12-31",
-    "type": "private"
-  }
+    {
+        "key": "VIP2027",
+        "expirydate": "2027-12-31",
+        "type": "public"
+    },
+    {
+        "key": "USER123",
+        "device_id": "ed336ccb315a2994",
+        "expirydate": "2027-12-31",
+        "type": "private"
+    },
+    {
+        "key": "a",
+        "expirydate": "2027-12-31",
+        "type": "public"
+    }
 ]
