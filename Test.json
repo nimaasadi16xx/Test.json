@@ -14,10 +14,5 @@
         "key": "a",
         "expirydate": "2027-12-31",
         "type": "public"
-    },
-    {
-        "key": "ALONE",
-        "expirydate": "2028-05-14",
-        "type": ""
     }
 ]
