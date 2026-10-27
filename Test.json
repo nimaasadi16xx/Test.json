@@ -38,5 +38,11 @@
         "expirydate": "2027-12-1",
         "type": "private",
         "device_id": "dbee8a1d70f45186"
+    },
+    {
+        "key": "XIT",
+        "expirydate": "2027-12-2",
+        "type": "private",
+        "device_id": "dbee8a1d70f45186"
     }
 ]
