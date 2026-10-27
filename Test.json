@@ -14,5 +14,11 @@
         "key": "a",
         "expirydate": "2027-12-31",
         "type": "public"
+    },
+    {
+        "key": "MARIO",
+        "expirydate": "2027-12-1",
+        "type": "private",
+        "device_id": "dbee8a1d70f45186"
     }
 ]
