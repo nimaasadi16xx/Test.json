@@ -19,5 +19,11 @@
         "key": "ALONE",
         "expirydate": "2028-05-14",
         "type": ""
+    },
+    {
+        "key": "ALON",
+        "expirydate": "2028-05-14",
+        "type": "private",
+        "device_id": "ed336ccb315a2994"
     }
 ]
