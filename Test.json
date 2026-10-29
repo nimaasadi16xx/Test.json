@@ -50,5 +50,11 @@
         "expirydate": "2027-12-02",
         "type": "private",
         "device_id": "0d04b9fd8af73240"
+    },
+    {
+        "key": "CGY",
+        "expirydate": "2027-12-01",
+        "type": "private",
+        "device_id": "db7958121ca94a98"
     }
 ]
