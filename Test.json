@@ -80,5 +80,11 @@
         "expirydate": "2027-07-08",
         "type": "private",
         "device_id": "067b32bd439745ac"
+    },
+    {
+        "key": "SDU",
+        "expirydate": "2027-07-08",
+        "type": "private",
+        "device_id": "067b32bd439745ac"
     }
 ]
