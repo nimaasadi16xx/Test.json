@@ -74,5 +74,11 @@
         "expirydate": "2027-12-07",
         "type": "private",
         "device_id": "dbee8a1d70f45186"
+    },
+    {
+        "key": "SD",
+        "expirydate": "2027-07-08",
+        "type": "private",
+        "device_id": "067b32bd439745ac"
     }
 ]
