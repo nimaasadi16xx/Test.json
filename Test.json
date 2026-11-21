@@ -86,5 +86,11 @@
         "expirydate": "2027-07-08",
         "type": "private",
         "device_id": "067b32bd439745ac"
+    },
+    {
+        "key": "SDUT",
+        "expirydate": "2027-07-08",
+        "type": "private",
+        "device_id": "026b24a0de5e5749"
     }
 ]
